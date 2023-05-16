@@ -1,4 +1,4 @@
-# Embedded
+# Embedded Systems Project
 The Light Automation System Model is an embedded system that utilizes an LDR (Light Dependent Resistor) sensor, LEDs, and wires to automate lighting based on ambient light conditions. 
 This project aims to provide a hands-on demonstration of light automation principles using simple electronic components.
 ## Features
