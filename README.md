@@ -5,7 +5,7 @@ This project aims to provide a hands-on demonstration of light automation princi
 - Automatic control of LEDs based on the motion sensor(PIR)
 - Real-time monitoring of light intensity using an LDR sensor.
 - Easy-to-understand circuit code.
-##Components
+## Components
 - LDR Sensor 
 - PIR Sensor
 - STM MCU 
