@@ -12,6 +12,6 @@ This project aims to provide a hands-on demonstration of light automation princi
 - Wires
 - Leds 
 ## Circuit Connection 
--
--
--
+- We connect the PIR sensor via GPIO input pin to our STM
+- We connect the LDR sensor via GPIO input pin to our STM
+- We connect the LEDS to our STM using GPIO output pin
