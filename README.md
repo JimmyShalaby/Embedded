@@ -5,13 +5,5 @@ This project aims to provide a hands-on demonstration of light automation princi
 - Automatic control of LEDs based on the motion sensor(PIR)
 - Real-time monitoring of light intensity using an LDR sensor.
 - Easy-to-understand circuit code.
-## Components
-- LDR Sensor 
-- PIR Sensor
-- STM MCU 
-- Wires
-- Leds 
-## Circuit Connection 
-- We connect the PIR sensor via GPIO input pin to our STM
-- We connect the LDR sensor via GPIO input pin to our STM
-- We connect the LEDS to our STM using GPIO output pin
+## Steps
+- Connect hardware components as per the wiki-page and run code using STMCubeMX and Keil MicroVision.
