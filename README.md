@@ -6,4 +6,5 @@ This project aims to provide a hands-on demonstration of light automation princi
 - Real-time monitoring of light intensity using an LDR sensor.
 - Easy-to-understand circuit code.
 ## Steps
+- Clone repository.
 - Connect hardware components as per the wiki-page and run code using STMCubeMX and Keil MicroVision.
